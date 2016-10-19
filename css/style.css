@@ -48,7 +48,7 @@ nav li {
 	border-color:yellow;
 	border-style:solid;
 	margin-right:10px;
-position: relative;
+    position: relative;
 }
 .footer{
 	display:inline-block;
